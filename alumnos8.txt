@@ -1,0 +1,4 @@
+45.234.234, Campos, Noelia, 1, A
+34.456.789, Sanchez, Juan, 1, B
+35.678.245, Paz, Gisela, 2, A
+34.653.218, Vilchez, Carlos 3, A
